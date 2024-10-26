@@ -76,7 +76,7 @@ ApplicationWindow {
                             Layout.alignment: Qt.AlignHCenter
 
                             Image {
-                                source: "brainwave-prediction-app/images/brain.png"
+                                source: "images/brain.png"
                                 width: 130
                                 height: 130
                                 anchors.centerIn: parent
@@ -220,7 +220,7 @@ ApplicationWindow {
                             color: "#1b3a4b" // Dark blue background
 
                             Image {
-                                source: "brainwave-prediction-app/images/connect.png"
+                                source: "images/connect.png"
                                 width: 80
                                 height: 80
                                 anchors.centerIn: parent
